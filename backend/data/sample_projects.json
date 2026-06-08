@@ -1,0 +1,498 @@
+[
+  {
+    "id": "IFC-001",
+    "project_name": "Lagos Lekki Port Development",
+    "country": "Nigeria",
+    "region": "Sub-Saharan Africa",
+    "sector": "Infrastructure",
+    "project_type": "Greenfield",
+    "scale_usd": 750000000,
+    "environmental_category": "A",
+    "risk_level": "High",
+    "risk_score": 78,
+    "ps_scores": {
+      "ps1": 80, "ps2": 65, "ps3": 75, "ps4": 82,
+      "ps5": 90, "ps6": 72, "ps7": 55, "ps8": 60
+    },
+    "year": 2019,
+    "status": "Active",
+    "esg_issues": [
+      "Large-scale land acquisition affecting fishing communities",
+      "Mangrove ecosystem destruction",
+      "Resettlement of 2,400 households",
+      "Air and noise pollution during construction"
+    ],
+    "lessons_learned": "Early and sustained community engagement reduced resettlement disputes by 40%. Biodiversity offset plan essential for mangrove areas."
+  },
+  {
+    "id": "IFC-002",
+    "project_name": "Vietnam Wind Power Complex",
+    "country": "Vietnam",
+    "region": "East Asia and Pacific",
+    "sector": "Energy",
+    "project_type": "Greenfield",
+    "scale_usd": 320000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 52,
+    "ps_scores": {
+      "ps1": 55, "ps2": 48, "ps3": 50, "ps4": 58,
+      "ps5": 62, "ps6": 65, "ps7": 30, "ps8": 40
+    },
+    "year": 2021,
+    "status": "Active",
+    "esg_issues": [
+      "Bird and bat mortality risk",
+      "Visual impact on coastal landscape",
+      "Noise pollution in nearby villages",
+      "Seasonal fishing restrictions"
+    ],
+    "lessons_learned": "Avian impact studies should begin 2 years before construction. Local content requirement of 30% achieved through pre-training programs."
+  },
+  {
+    "id": "IFC-003",
+    "project_name": "Kenya Smallholder Agriculture Finance",
+    "country": "Kenya",
+    "region": "Sub-Saharan Africa",
+    "sector": "Agriculture",
+    "project_type": "Expansion",
+    "scale_usd": 45000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 44,
+    "ps_scores": {
+      "ps1": 45, "ps2": 40, "ps3": 55, "ps4": 42,
+      "ps5": 35, "ps6": 50, "ps7": 30, "ps8": 25
+    },
+    "year": 2020,
+    "status": "Completed",
+    "esg_issues": [
+      "Pesticide use and water contamination risk",
+      "Child labor in seasonal harvest",
+      "Gender disparity in land titling",
+      "Soil degradation from monoculture"
+    ],
+    "lessons_learned": "Gender-lens investing improved loan repayment rates. Integrated pest management training reduced chemical use by 60%."
+  },
+  {
+    "id": "IFC-004",
+    "project_name": "Bangladesh Ready-Made Garments Modernization",
+    "country": "Bangladesh",
+    "region": "South Asia",
+    "sector": "Manufacturing",
+    "project_type": "Expansion",
+    "scale_usd": 85000000,
+    "environmental_category": "B",
+    "risk_level": "High",
+    "risk_score": 72,
+    "ps_scores": {
+      "ps1": 70, "ps2": 85, "ps3": 78, "ps4": 65,
+      "ps5": 30, "ps6": 40, "ps7": 20, "ps8": 30
+    },
+    "year": 2018,
+    "status": "Completed",
+    "esg_issues": [
+      "Fire safety and building structural integrity",
+      "Excessive overtime and wage theft",
+      "Wastewater discharge from dyeing facilities",
+      "Freedom of association restrictions"
+    ],
+    "lessons_learned": "Third-party labor audits quarterly essential. ETP installation mandatory before disbursement."
+  },
+  {
+    "id": "IFC-005",
+    "project_name": "Colombia Bogota Metro Line 1",
+    "country": "Colombia",
+    "region": "Latin America and Caribbean",
+    "sector": "Infrastructure",
+    "project_type": "Greenfield",
+    "scale_usd": 1200000000,
+    "environmental_category": "A",
+    "risk_level": "High",
+    "risk_score": 76,
+    "ps_scores": {
+      "ps1": 78, "ps2": 60, "ps3": 70, "ps4": 80,
+      "ps5": 85, "ps6": 55, "ps7": 75, "ps8": 82
+    },
+    "year": 2022,
+    "status": "Active",
+    "esg_issues": [
+      "Indigenous community land in project corridor",
+      "Urban resettlement of informal settlements",
+      "Archaeological sites along route",
+      "Groundwater contamination risk"
+    ],
+    "lessons_learned": "Free, prior, informed consent process with indigenous groups took 18 months but prevented legal delays. Archaeological chance find procedures critical."
+  },
+  {
+    "id": "IFC-006",
+    "project_name": "Egypt Solar Energy Park",
+    "country": "Egypt",
+    "region": "Middle East and North Africa",
+    "sector": "Energy",
+    "project_type": "Greenfield",
+    "scale_usd": 280000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 48,
+    "ps_scores": {
+      "ps1": 50, "ps2": 45, "ps3": 42, "ps4": 52,
+      "ps5": 60, "ps6": 55, "ps7": 20, "ps8": 45
+    },
+    "year": 2020,
+    "status": "Active",
+    "esg_issues": [
+      "Land acquisition in Benban solar zone",
+      "Water scarcity for panel cleaning",
+      "Desert ecosystem disturbance",
+      "Migrant worker accommodation standards"
+    ],
+    "lessons_learned": "Dry cleaning technology reduced water use by 90%. Shared worker accommodation hub reduced costs and improved compliance."
+  },
+  {
+    "id": "IFC-007",
+    "project_name": "Indonesia Palm Oil Certification Program",
+    "country": "Indonesia",
+    "region": "East Asia and Pacific",
+    "sector": "Agriculture",
+    "project_type": "Rehabilitation",
+    "scale_usd": 120000000,
+    "environmental_category": "A",
+    "risk_level": "Very High",
+    "risk_score": 88,
+    "ps_scores": {
+      "ps1": 85, "ps2": 70, "ps3": 88, "ps4": 80,
+      "ps5": 72, "ps6": 95, "ps7": 82, "ps8": 65
+    },
+    "year": 2017,
+    "status": "Completed",
+    "esg_issues": [
+      "Deforestation and peatland burning",
+      "Indigenous land rights violations",
+      "Orangutan habitat destruction",
+      "Haze pollution affecting neighboring countries"
+    ],
+    "lessons_learned": "No-deforestation commitment must be verified via satellite monitoring. Grievance mechanism must be accessible to illiterate communities."
+  },
+  {
+    "id": "IFC-008",
+    "project_name": "Ghana Tema Container Terminal",
+    "country": "Ghana",
+    "region": "Sub-Saharan Africa",
+    "sector": "Infrastructure",
+    "project_type": "Expansion",
+    "scale_usd": 180000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 55,
+    "ps_scores": {
+      "ps1": 58, "ps2": 52, "ps3": 60, "ps4": 55,
+      "ps5": 48, "ps6": 62, "ps7": 25, "ps8": 40
+    },
+    "year": 2021,
+    "status": "Active",
+    "esg_issues": [
+      "Marine ecosystem disturbance from dredging",
+      "Displacement of artisanal fishing community",
+      "Dust pollution from container handling",
+      "Oil spill risk"
+    ],
+    "lessons_learned": "Marine ecology baseline survey should precede dredging. Compensation framework for fishers must account for multi-year income loss."
+  },
+  {
+    "id": "IFC-009",
+    "project_name": "Peru Copper Mining Expansion",
+    "country": "Peru",
+    "region": "Latin America and Caribbean",
+    "sector": "Mining",
+    "project_type": "Expansion",
+    "scale_usd": 950000000,
+    "environmental_category": "A",
+    "risk_level": "Very High",
+    "risk_score": 91,
+    "ps_scores": {
+      "ps1": 88, "ps2": 75, "ps3": 92, "ps4": 85,
+      "ps5": 82, "ps6": 90, "ps7": 95, "ps8": 78
+    },
+    "year": 2016,
+    "status": "Active",
+    "esg_issues": [
+      "Acid mine drainage contaminating Andean watersheds",
+      "Indigenous Quechua community protests",
+      "Glacial melt acceleration",
+      "Tailings dam failure risk"
+    ],
+    "lessons_learned": "Social license requires ongoing benefit-sharing agreements. Independent tailings review board essential. Water trust fund for downstream communities."
+  },
+  {
+    "id": "IFC-010",
+    "project_name": "Rwanda Coffee Value Chain",
+    "country": "Rwanda",
+    "region": "Sub-Saharan Africa",
+    "sector": "Agriculture",
+    "project_type": "Expansion",
+    "scale_usd": 15000000,
+    "environmental_category": "C",
+    "risk_level": "Low",
+    "risk_score": 22,
+    "ps_scores": {
+      "ps1": 25, "ps2": 20, "ps3": 30, "ps4": 18,
+      "ps5": 15, "ps6": 28, "ps7": 10, "ps8": 15
+    },
+    "year": 2022,
+    "status": "Active",
+    "esg_issues": [
+      "Coffee pulp wastewater management",
+      "Women's cooperative governance"
+    ],
+    "lessons_learned": "Smallholder cooperatives with gender parity outperform on quality metrics. Pulping station biogas recovery viable above 50 ton/day."
+  },
+  {
+    "id": "IFC-011",
+    "project_name": "India Affordable Housing Finance",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "Financial Services",
+    "project_type": "Greenfield",
+    "scale_usd": 200000000,
+    "environmental_category": "C",
+    "risk_level": "Low",
+    "risk_score": 28,
+    "ps_scores": {
+      "ps1": 30, "ps2": 25, "ps3": 20, "ps4": 32,
+      "ps5": 22, "ps6": 18, "ps7": 15, "ps8": 20
+    },
+    "year": 2021,
+    "status": "Active",
+    "esg_issues": [
+      "Responsible lending practices",
+      "Over-indebtedness risk for low-income borrowers"
+    ],
+    "lessons_learned": "Client protection assessment must precede disbursement. Financial literacy programs improve repayment rates and reduce distress."
+  },
+  {
+    "id": "IFC-012",
+    "project_name": "Mozambique Natural Gas Pipeline",
+    "country": "Mozambique",
+    "region": "Sub-Saharan Africa",
+    "sector": "Energy",
+    "project_type": "Greenfield",
+    "scale_usd": 2100000000,
+    "environmental_category": "A",
+    "risk_level": "Very High",
+    "risk_score": 85,
+    "ps_scores": {
+      "ps1": 82, "ps2": 70, "ps3": 80, "ps4": 88,
+      "ps5": 92, "ps6": 78, "ps7": 85, "ps8": 70
+    },
+    "year": 2019,
+    "status": "Active",
+    "esg_issues": [
+      "Displacement of coastal fishing communities",
+      "Security forces human rights concerns",
+      "Marine mammal disruption from seismic surveys",
+      "Conflict-affected area operations"
+    ],
+    "lessons_learned": "Human rights due diligence for security arrangements critical in conflict-affected areas. Community development agreements must be legally binding."
+  },
+  {
+    "id": "IFC-013",
+    "project_name": "Philippines Geothermal Power Plant",
+    "country": "Philippines",
+    "region": "East Asia and Pacific",
+    "sector": "Energy",
+    "project_type": "Expansion",
+    "scale_usd": 165000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 57,
+    "ps_scores": {
+      "ps1": 58, "ps2": 50, "ps3": 55, "ps4": 60,
+      "ps5": 52, "ps6": 65, "ps7": 68, "ps8": 55
+    },
+    "year": 2020,
+    "status": "Active",
+    "esg_issues": [
+      "Indigenous IP community lands within project area",
+      "Hydrogen sulfide emissions",
+      "Seismic activity risk",
+      "Watershed protection"
+    ],
+    "lessons_learned": "FPIC with IP communities mandatory. H2S monitoring stations in downwind communities required."
+  },
+  {
+    "id": "IFC-014",
+    "project_name": "Ethiopia Industrial Zone Development",
+    "country": "Ethiopia",
+    "region": "Sub-Saharan Africa",
+    "sector": "Manufacturing",
+    "project_type": "Greenfield",
+    "scale_usd": 420000000,
+    "environmental_category": "A",
+    "risk_level": "High",
+    "risk_score": 74,
+    "ps_scores": {
+      "ps1": 75, "ps2": 80, "ps3": 72, "ps4": 70,
+      "ps5": 78, "ps6": 60, "ps7": 45, "ps8": 55
+    },
+    "year": 2018,
+    "status": "Active",
+    "esg_issues": [
+      "Mass land acquisition for zone",
+      "Labor rights in export processing zone",
+      "Industrial wastewater treatment",
+      "Forced resettlement concerns"
+    ],
+    "lessons_learned": "EPZ labor exemptions create reputational risk. Collective bargaining must be explicitly protected. Centralized ETP reduces compliance costs."
+  },
+  {
+    "id": "IFC-015",
+    "project_name": "Morocco Phosphate Mining Upgrade",
+    "country": "Morocco",
+    "region": "Middle East and North Africa",
+    "sector": "Mining",
+    "project_type": "Rehabilitation",
+    "scale_usd": 380000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 58,
+    "ps_scores": {
+      "ps1": 60, "ps2": 55, "ps3": 65, "ps4": 58,
+      "ps5": 45, "ps6": 62, "ps7": 30, "ps8": 50
+    },
+    "year": 2019,
+    "status": "Active",
+    "esg_issues": [
+      "Fluoride dust from processing",
+      "Phosphogypsum waste management",
+      "Water scarcity in arid region",
+      "Coastal ecosystem impacts from slurry pipeline"
+    ],
+    "lessons_learned": "Phosphogypsum stack monitoring essential. Desalination for process water reduces aquifer pressure."
+  },
+  {
+    "id": "IFC-016",
+    "project_name": "Cambodia Microfinance Expansion",
+    "country": "Cambodia",
+    "region": "East Asia and Pacific",
+    "sector": "Financial Services",
+    "project_type": "Expansion",
+    "scale_usd": 60000000,
+    "environmental_category": "C",
+    "risk_level": "Medium",
+    "risk_score": 42,
+    "ps_scores": {
+      "ps1": 45, "ps2": 38, "ps3": 20, "ps4": 48,
+      "ps5": 30, "ps6": 22, "ps7": 35, "ps8": 25
+    },
+    "year": 2020,
+    "status": "Active",
+    "esg_issues": [
+      "Land-secured lending and over-indebtedness",
+      "Aggressive collection practices",
+      "Multiple borrowing risk",
+      "Consumer data protection"
+    ],
+    "lessons_learned": "Land collateral prohibition for small loans essential. Digital credit bureau integration reduces over-indebtedness."
+  },
+  {
+    "id": "IFC-017",
+    "project_name": "Tanzania Road Rehabilitation",
+    "country": "Tanzania",
+    "region": "Sub-Saharan Africa",
+    "sector": "Infrastructure",
+    "project_type": "Rehabilitation",
+    "scale_usd": 95000000,
+    "environmental_category": "B",
+    "risk_level": "Medium",
+    "risk_score": 46,
+    "ps_scores": {
+      "ps1": 48, "ps2": 42, "ps3": 45, "ps4": 50,
+      "ps5": 55, "ps6": 48, "ps7": 38, "ps8": 40
+    },
+    "year": 2021,
+    "status": "Active",
+    "esg_issues": [
+      "Road safety and induced traffic fatalities",
+      "Strip resettlement along road corridor",
+      "Wildlife migration barrier",
+      "Increased poaching access"
+    ],
+    "lessons_learned": "Road safety audit and speed enforcement plan must accompany road projects. Wildlife crossing structures cost-effective at <2% of project cost."
+  },
+  {
+    "id": "IFC-018",
+    "project_name": "Brazil Soy Supply Chain Finance",
+    "country": "Brazil",
+    "region": "Latin America and Caribbean",
+    "sector": "Agriculture",
+    "project_type": "Expansion",
+    "scale_usd": 500000000,
+    "environmental_category": "A",
+    "risk_level": "Very High",
+    "risk_score": 86,
+    "ps_scores": {
+      "ps1": 82, "ps2": 68, "ps3": 80, "ps4": 75,
+      "ps5": 70, "ps6": 92, "ps7": 88, "ps8": 65
+    },
+    "year": 2018,
+    "status": "Completed",
+    "esg_issues": [
+      "Cerrado and Amazon deforestation link",
+      "Indigenous land invasion",
+      "Slave labor in supply chain",
+      "Soy moratorium compliance"
+    ],
+    "lessons_learned": "Supply chain traceability to farm level essential. Satellite monitoring of supplier farms must be contractual condition."
+  },
+  {
+    "id": "IFC-019",
+    "project_name": "Zambia Copper Smelter Modernization",
+    "country": "Zambia",
+    "region": "Sub-Saharan Africa",
+    "sector": "Mining",
+    "project_type": "Rehabilitation",
+    "scale_usd": 240000000,
+    "environmental_category": "A",
+    "risk_level": "High",
+    "risk_score": 79,
+    "ps_scores": {
+      "ps1": 78, "ps2": 72, "ps3": 88, "ps4": 75,
+      "ps5": 55, "ps6": 68, "ps7": 40, "ps8": 52
+    },
+    "year": 2017,
+    "status": "Completed",
+    "esg_issues": [
+      "SO2 emissions affecting Copperbelt towns",
+      "Lead contamination in community soils",
+      "Occupational health in smelting",
+      "Slag heap leachate"
+    ],
+    "lessons_learned": "Ambient SO2 monitoring network with public disclosure builds trust. Blood lead level surveillance for children within 5km mandatory."
+  },
+  {
+    "id": "IFC-020",
+    "project_name": "Senegal Dakar Toll Highway",
+    "country": "Senegal",
+    "region": "Sub-Saharan Africa",
+    "sector": "Infrastructure",
+    "project_type": "Greenfield",
+    "scale_usd": 590000000,
+    "environmental_category": "A",
+    "risk_level": "High",
+    "risk_score": 73,
+    "ps_scores": {
+      "ps1": 75, "ps2": 60, "ps3": 68, "ps4": 78,
+      "ps5": 82, "ps6": 65, "ps7": 60, "ps8": 70
+    },
+    "year": 2019,
+    "status": "Active",
+    "esg_issues": [
+      "Resettlement of 30,000 peri-urban residents",
+      "Sacred grove destruction",
+      "Barrier effect dividing communities",
+      "Non-motorized transport exclusion"
+    ],
+    "lessons_learned": "Resettlement action plan implementation requires dedicated project unit. Cultural heritage screening must include intangible heritage."
+  }
+]
