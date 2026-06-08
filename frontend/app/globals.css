@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-width: 240px;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+.risk-low {
+  @apply text-green-600 bg-green-50 border-green-200;
+}
+
+.risk-medium {
+  @apply text-yellow-600 bg-yellow-50 border-yellow-200;
+}
+
+.risk-high {
+  @apply text-orange-600 bg-orange-50 border-orange-200;
+}
+
+.risk-very-high {
+  @apply text-red-600 bg-red-50 border-red-200;
+}
